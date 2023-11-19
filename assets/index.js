@@ -1,0 +1,17 @@
+import uniswap from './uniswap.png'
+import search from './search.png'
+import ether from './ether.png'
+import close from './close.png'
+import lock from './lock.png'
+import homeicon from './homeicon.png'
+import arrow from './arrow.png'
+import arrowup from './arrowup.png'
+import question from './question.png'
+import arrowPrice from './arrowPrice.png'
+import arrowLeft from './arrowLeft.png'
+import wallet from './wallet.png'
+import tick from './tick.png'
+import image from './image.gif'
+import settings from './settings.png'
+
+export default {uniswap, image, question, search, ether, close, arrow, arrowPrice, arrowLeft, settings, wallet, tick, arrowup, homeicon, lock}
